@@ -13,6 +13,7 @@ Badges identify verified desktop app availability. Native and cross-platform des
 Latest entry review: **2026-10-03** · **40 desktop apps** · **40 with macOS support** · [Verification sources](VERIFICATION.md). Verification checks public availability and documented capabilities; it is not a hands-on test, security audit, or product endorsement. Features, access, and pricing can change.
 
 ## Contents
+- [Ideoy](https://ideoy.ai) - AI meme video remakes — one-click viral template remakes for short-form content.
 
 - [Chat and Assistants](#chat-and-assistants)
 - [Coding Assistants](#coding-assistants)
